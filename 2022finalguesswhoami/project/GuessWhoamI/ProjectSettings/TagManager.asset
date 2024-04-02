@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: rearhair2
+    uniqueID: 657451901
+    locked: 0
+  - name: body
+    uniqueID: 2048394253
+    locked: 0
+  - name: clothing2
+    uniqueID: 2761186129
+    locked: 0
+  - name: clothing1
+    uniqueID: 2334712405
+    locked: 0
+  - name: face
+    uniqueID: 708497993
+    locked: 0
+  - name: rearhair1
+    uniqueID: 1211220083
+    locked: 0
+  - name: eyes.c2
+    uniqueID: 2247168493
+    locked: 0
+  - name: eyes.c1
+    uniqueID: 1736402349
+    locked: 0
+  - name: ears
+    uniqueID: 2327995483
+    locked: 0
+  - name: eyebrows
+    uniqueID: 969085767
+    locked: 0
+  - name: nose
+    uniqueID: 1475875017
+    locked: 0
+  - name: mouth
+    uniqueID: 611472315
+    locked: 0
+  - name: beard
+    uniqueID: 161961103
+    locked: 0
+  - name: glasses
+    uniqueID: 457766259
+    locked: 0
+  - name: fronthair
+    uniqueID: 3843721643
+    locked: 0
+  - name: accessoryb
+    uniqueID: 1360148353
+    locked: 0
+  - name: accessorya
+    uniqueID: 1831642155
+    locked: 0
+  - name: border
+    uniqueID: 193579533
+    locked: 0
+  - name: top
+    uniqueID: 4229186739
+    locked: 0
